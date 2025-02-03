@@ -1,0 +1,9 @@
+#https://chatgpt.com/c/679df174-d348-8011-8f85-07401d2ff901
+
+How to install conda
+
+conda create -p venv python==3.12
+conda activate venv/
+pip install -r requirements.txt
+
+pip install ipykernel
